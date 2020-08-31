@@ -1,5 +1,6 @@
-<h2>Hi, I'm Edu !!!
-<img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/coding-freak.gif" style="max-width:100%;vertical-align: middle;" width="185" height=""> 
+<h2 style="text-aling:center;">Hi, I'm Edu !!!
+  <br/>
+<img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/coding-freak.gif" style="max-width:100%;vertical-align: middle;" width="200" height=""> 
 </h2>
   
   
