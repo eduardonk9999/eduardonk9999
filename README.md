@@ -21,7 +21,7 @@
 - PHP / Wordpress
 - Mysql
 
-# Tecnologias que estou estudando  # Tecnologias que eu trabalho atualmente <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/estudando.gif" style="max-width:100%;" width="130"> 
+# Tecnologias que estou estudando <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/estudando.gif" style="max-width:100%;" width="130"> 
 - NodeJS
 - React
 - React Native
