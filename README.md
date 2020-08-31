@@ -1,5 +1,4 @@
-<b>Hi, I'm Edu !!!<b>   
-<img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/coding-freak.gif" style="max-width:100%;vertical-align: middle;" width="155" height=""> 
+#Hi, I'm Edu !!! <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/coding-freak.gif" style="max-width:100%;vertical-align: middle;" width="155" height=""> 
 
 
 
@@ -7,14 +6,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-silva-537963160/)](https://www.linkedin.com/in/eduardo-silva-537963160/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eduardo07js)](https://twitter.com/eduardo07js)
 
-<b>
+
 Um pouco do que eu apronto por ai <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/rocket.gif" style="max-width:100%;" width="130"> 
-</b>  
+
 <p>Sou um Front-End apaixonado pelo JavaScript e seu Universo.<p>
 
-<b>
+
 Tecnologias que eu trabalho atualmente <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/catwork.gif" style="max-width:100%;" width="130"> 
-</b>  
+
 
 - JavaScript
 - Html
@@ -23,7 +22,7 @@ Tecnologias que eu trabalho atualmente <img src="https://raw.githubusercontent.c
 - PHP / Wordpress
 - Mysql
 
-<b>
+
 Tecnologias que estou estudando <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/estudando.gif" style="max-width:100%;" width="150"> 
 </b>  
 
@@ -33,8 +32,6 @@ Tecnologias que estou estudando <img src="https://raw.githubusercontent.com/edua
 - Graphql
 - Mongo DB
 
-<b>
 IOT  <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/robo.gif" style="max-width:100%;" width="100"> 
 - Raspberry pi
 - Arduino
-</b>  
