@@ -24,5 +24,5 @@
 
 
 <br/>
-<h3>IOT             <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/robo.gif" style="max-width:100%;" width="130"> </h3>
+<h3>IOT             <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/robo.gif" style="max-width:100%;transform: translateY(31px);" width="130"> </h3>
 
