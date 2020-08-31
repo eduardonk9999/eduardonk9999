@@ -12,8 +12,7 @@ Um pouco do que eu apronto por ai <img src="https://raw.githubusercontent.com/ed
 <p>Sou um Front-End apaixonado pelo JavaScript e seu Universo.<p>
 
 
-Tecnologias que eu trabalho atualmente <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/catwork.gif" style="max-width:100%;" width="130"> 
-
+<h3> Tecnologias que eu trabalho atualmente <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/catwork.gif" style="max-width:100%;" width="130"> </h3>
 
 - JavaScript
 - Html
@@ -23,8 +22,8 @@ Tecnologias que eu trabalho atualmente <img src="https://raw.githubusercontent.c
 - Mysql
 
 
-Tecnologias que estou estudando <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/estudando.gif" style="max-width:100%;" width="150"> 
-</b>  
+<h3>Tecnologias que estou estudando <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/estudando.gif" style="max-width:100%;" width="150"> 
+</h3>  
 
 - NodeJS
 - React
@@ -32,6 +31,6 @@ Tecnologias que estou estudando <img src="https://raw.githubusercontent.com/edua
 - Graphql
 - Mongo DB
 
-IOT  <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/robo.gif" style="max-width:100%;" width="100"> 
+<h3>IOT  <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/robo.gif" style="max-width:100%;" width="100"> </h3>
 - Raspberry pi
 - Arduino
