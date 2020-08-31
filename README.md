@@ -15,7 +15,8 @@
 
 <p>Sou um Front-End apaixonado pelo JavaScript e seu Universo.<p>
 
-<h3> Tecnologias que eu trabalho atualmente <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/catwork.gif" style="max-width:100%;" width="90"> </h3>
+<h3> Tecnologias que eu trabalho atualmente </h3>
+<img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/catwork.gif" style="max-width:100%;" width="90"> 
 <ul>
  <li>JavaScript</li>
 <li>CSS / SASS</li>
@@ -25,8 +26,9 @@
 </ul>  
 
 
-<h3>Tecnologias que estou estudando <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/estudando.gif" style="max-width:100%;" width="90" height="90"> 
+<h3>Tecnologias que estou estudando 
 </h3>  
+<img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/estudando.gif" style="max-width:100%;" width="90" height="90"> 
 <ul>
   <li>NodeJS</li>
 <li>React</li>
