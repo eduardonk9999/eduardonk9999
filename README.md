@@ -1,7 +1,5 @@
-<h1 style=""> 
- <span>Hi, I'm Edu !!!</span>
- <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/coding-freak.gif" style="max-width:100%;vertical-align: middle;" width="330" height=""> 
-</h1>
+# Hi, I'm Edu !!!
+<img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/coding-freak.gif" style="max-width:100%;vertical-align: middle;" width="330" height=""> 
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardonk9999)](https://github.com/eduardonk9999)
