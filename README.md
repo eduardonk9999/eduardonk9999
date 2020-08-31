@@ -17,12 +17,23 @@
 
 <br/>
 <h3> Tecnologias que eu trabalho atualmente <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/catwork.gif" style="max-width:100%;" width="130"> </h3>
+-JavaScript
+-CSS / SASS
+-Html
+-PHP / Wordpress
+-MySQL
 
 
 <h3>Tecnologias que estou estudando <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/estudando.gif" style="max-width:100%;" width="130"> 
 </h3>  
-
+- NodeJS
+- React
+- React Native
+- Graphql
+- Firebase
+- Netlify CMS 
 
 <br/>
 <h3>IOT  <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/robo.gif" style="max-width:100%;transform: translateY(31px);" width="130"> </h3>
-
+- Raspberry pi
+- Arduino
