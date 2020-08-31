@@ -1,4 +1,5 @@
-<h1>Hi, I'm Edu !!!
+<h1 style=""> 
+ <span>Hi, I'm Edu !!!</span>
  <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/coding-freak.gif" style="max-width:100%;vertical-align: middle;" width="330" height=""> 
 </h1>
 
