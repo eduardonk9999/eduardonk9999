@@ -18,7 +18,7 @@
 - PHP / Wordpress
 - Mysql
 
-# Tecnologias que estou estudando 
+# Tecnologias que estou estudando  # Tecnologias que eu trabalho atualmente <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/estudando.gif" style="max-width:100%;" width="130"> 
 - NodeJS
 - React
 - React Native
@@ -27,6 +27,6 @@
 
 
 
-# IOT  <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/wall-e.gif" style="max-width:100%;" width="130"> 
+# IOT  <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/robo.gif" style="max-width:100%;" width="130"> 
 - Raspberry pi
 - Arduino
