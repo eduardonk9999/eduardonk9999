@@ -25,7 +25,7 @@
 </ul>  
 
 
-<h3>Tecnologias que estou estudando <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/estudando.gif" style="max-width:100%;" width="90"> 
+<h3>Tecnologias que estou estudando <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/estudando.gif" style="max-width:100%;" width="90" height="90"> 
 </h3>  
 <ul>
   <li>NodeJS</li>
@@ -36,7 +36,9 @@
 <li>Netlify CMS </li>
 </ul>  
 
-<h3>IOT  <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/robo.gif" style="max-width:100%;transform: translateY(31px);" width="90"> </h3>
+<h3>IOT  
+   </h3>
+   <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/wall-e.gif" style="max-width:100%;" width="90">
 <ul>
   <li>Raspberry pi</li>
 <li>Arduino</li>
