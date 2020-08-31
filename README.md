@@ -1,8 +1,9 @@
-<h2>Hi, I'm Edu !!!</h2>
-  
+<h2>Hi, I'm Edu !!!
 <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/coding-freak.gif" style="max-width:100%;vertical-align: middle;" width="185" height=""> 
-
-
+</h2>
+  
+  
+<h3>Minhas Redes</h3>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardonk9999)](https://github.com/eduardonk9999)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-silva-537963160/)](https://www.linkedin.com/in/eduardo-silva-537963160/)
