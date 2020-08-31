@@ -10,7 +10,7 @@
 
 
 
-# Tecnologias que eu trabalho atualmente <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/catwprk.gif" style="max-width:100%;" width="130"> 
+# Tecnologias que eu trabalho atualmente <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/catwork.gif" style="max-width:100%;" width="130"> 
 - JavaScript
 - Html
 - CSS
