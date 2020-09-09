@@ -1,6 +1,6 @@
 <h2 style="text-aling:center;">Hi, I'm Edu !!!
   <br/>
-<img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/coding-freak.gif" style="max-width:100%;vertical-align: middle;" width="350" height=""> 
+<img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/coding-freak.gif" style="max-width:100%;vertical-align: middle;" width="250" height=""> 
 </h2>
   
   
@@ -38,10 +38,3 @@
 <li>Netlify CMS </li>
 </ul>  
 
-<h3>IOT  
-   </h3>
-   <img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/wall-e.gif" style="max-width:100%;" width="90">
-<ul>
-  <li>Raspberry pi</li>
-<li>Arduino</li>
-</ul>  
