@@ -11,26 +11,3 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eduardo07js)](https://twitter.com/eduardo07js)
 
 
-<h3> Tecnologias que eu trabalho atualmente </h3>
-<img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/catwork.gif" style="max-width:100%;" width="90"> 
-<ul>
- <li>JavaScript</li>
-<li>CSS / SASS</li>
-<li>Html</li>
-<li>PHP / Wordpress</li>
-<li>MySQL</li>
-</ul>  
-
-
-<h3>Tecnologias que estou estudando 
-</h3>  
-<img src="https://raw.githubusercontent.com/eduardonk9999/eduardonk9999/master/assets/estudando.gif" style="max-width:100%;" width="90" height="90"> 
-<ul>
-  <li>NodeJS</li>
-<li>React</li>
-<li>React Native</li>
-<li>Graphql</li>
-<li>Firebase</li>
-<li>Netlify CMS </li>
-</ul>  
-
