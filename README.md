@@ -4,6 +4,7 @@
 <ul>
   <li>JavaScript</li>
   <li>NodeJS</li>
+  <li>React</li>
   <li>SQL</li>
   <li>Nunjucks</li>
 </ul>
