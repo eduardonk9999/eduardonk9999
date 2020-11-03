@@ -3,9 +3,7 @@
 <h3> Atualmente estudando: </h3>
 <ul>
   <li>JavaScript</li>
-  <li>NodeJS</li>
   <li>React</li>
-  <li>SQL</li>
-  <li>Nunjucks</li>
+  <li>Node</li>
 </ul>
 
