@@ -5,7 +5,7 @@
   <br>
   . Brazilian
   <br>
-  . Addicted to playing Fortnite
+  . Addicted to playing Fortnite...
 </p>
 <br>
 <p>
