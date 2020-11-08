@@ -13,7 +13,7 @@
 </p>
 <br>
 <p>
- > Studying about React at Rocketseat...
+ > Studying about React, Node, React Native at Rocketseat...
 </p>
 <br>
 <nav>
