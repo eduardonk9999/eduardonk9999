@@ -9,8 +9,8 @@
 </p>
 <br>
 <p>
-  > Work with, React, Html, Css, JavaScript...
-</p>
+  > Work with, React, Html, Css, JavaScript....
+</p>.
 <br>
 <p>
  > Studying about React, Node, React Native at Rocketseat...
