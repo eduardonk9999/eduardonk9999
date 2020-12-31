@@ -1,5 +1,5 @@
 <h2>Hi, I'm Edu!!! <img width="100px" src="https://github.com/eduardonk9999/eduardonk9999/blob/master/assets/rocket.gif"></h2>
-<p>Always looking to improve my knowledge of JavaScript and its universe ...</p>
+<p>Always looking to improve my knowledge of JavaScript and its universe .</p>
 <p>
   . Front-End Developer
   <br>
