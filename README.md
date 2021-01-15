@@ -9,7 +9,7 @@
 </p>
 <br>
 <p>
-  > Work with, React, Html, Css, JavaScript.
+  > Work with,Vue, React, Html, Css, JavaScript.
 </p>
 <br>
 <p>
