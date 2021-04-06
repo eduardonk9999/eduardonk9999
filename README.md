@@ -9,7 +9,7 @@
 </p>
 <br>
 <p>
-  > Work with, Vue.Js, JavaScript, Html, Css, Php.
+  > Work with, Vue.Js, React.Js JavaScript, Html, Css, Php.
 </p>
 <br>
 
