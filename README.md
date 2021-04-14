@@ -1,18 +1,18 @@
 <h2>Hi, I'm Edu!!! </h2>
 <p>Always looking to improve my knowledge of JavaScript and its universe .</p>
 <p>
-  . Front-End Developer
+  . Front-End Developer </>
   <br>
-  . Brazilian
+  . Brazilian 🇧🇷.
   <br>
-  . Addicted to playing Fortnite.
+  . Addicted to playing Fortnite. 🕹
+  <br>
+  Apprentice Pianist 🎹
 </p>
 <br>
 <p>
-  > Work with, Vue.Js, React.Js JavaScript, Html, Css...
+  > Work with, JavaScript, HTML, CSS, SASS, React.Js, React Native, Next.js
 </p>
-<br>
-
 <br>
 <nav>
   <a href="https://twitter.com/eduardo07js"><img width="25px" src="https://github.com/eduardonk9999/eduardonk9999/blob/master/assets/twitter_icon-icons.com_65436.png"></a>
