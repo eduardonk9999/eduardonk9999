@@ -1,7 +1,7 @@
 <h2>Hi, I'm Edu!!! </h2>
 <p>Always looking to improve my knowledge of JavaScript and its universe .</p>
 <p>
-  . Front-End Developer </>
+  . Front-End Developer 🖱
   <br>
   . Brazilian 🇧🇷.
   <br>
