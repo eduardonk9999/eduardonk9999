@@ -16,6 +16,6 @@
 <br>
 <nav>
   <a href="https://twitter.com/eduardo07js">Twitter</a>
-  <a href="https://www.instagram.com/eduardodevjs/">Instagran</a>
+  <a href="https://www.instagram.com/eduardodevjs/">Instagram</a>
   <a href="https://www.linkedin.com/in/eduardo-silva-537963160/">Linkedin</a>
 </nav>
