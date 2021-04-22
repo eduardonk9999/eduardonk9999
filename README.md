@@ -7,7 +7,7 @@
   <br>
   . Addicted to playing Fortnite. 🕹
   <br>
-  . Apprentice Pianist 🎹
+  . Apprentice Guitarist 🎸
 </p>
 <br>
 <p>
