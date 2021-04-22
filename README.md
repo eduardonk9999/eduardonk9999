@@ -3,7 +3,7 @@
 <p>
   . Front-End Developer na DarkSide Books 🖱
   <br>
-  . Brazilian 🇧🇷.
+  . Brazilian
   <br>
   . Addicted to playing Fortnite. 🕹
   <br>
