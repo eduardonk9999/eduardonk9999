@@ -11,7 +11,7 @@
 </p>
 <br>
 <p>
-  > Work with, JavaScript, HTML, CSS, SASS, React.Js, React Native, Next.js
+  > Work with, JavaScript, HTML, CSS, SASS, Vue.Js, React.Js, React Native, Next.js
 </p>
 <br>
 <nav>
