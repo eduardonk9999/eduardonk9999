@@ -14,8 +14,4 @@
   > Work with, JavaScript, HTML, CSS, SASS, Vue.Js, React.Js, React Native, Next.js
 </p>
 <br>
-<nav>
-  <a href="https://twitter.com/eduardo07js">Twitter</a>
-  <a href="https://www.instagram.com/eduardodevjs/">Instagram</a>
-  <a href="https://www.linkedin.com/in/eduardo-silva-537963160/">Linkedin</a>
-</nav>
+<a href="https://eduardonk9999.github.io/mypagdeapresentacao/" target="_blank">Meu Site</a>
