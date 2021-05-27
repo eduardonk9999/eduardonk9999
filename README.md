@@ -14,4 +14,4 @@
   > Work with, JavaScript, HTML, CSS, SASS, Vue.Js, React.Js, React Native, Next.js
 </p>
 <br>
-<a href="https://eduardonk9999.github.io/mypagdeapresentacao/" target="_blank">Meu Site</a>
+<a href="https://eduardonk9999.github.io/mypagdeapresentacao/" target="_blank">Meu Site.</a>
