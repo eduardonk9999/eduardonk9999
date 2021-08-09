@@ -14,4 +14,4 @@
   > Work with, React, JavaScript, HTML, CSS, SASS..
 </p>
 <br>
-<a href="https://eduardonk9999.github.io/mypagdeapresentacao/" target="_blank">Meu Site.</a>
+<a href="https://eduardosilvajs.com.br/" target="_blank">Meu Site.</a>
