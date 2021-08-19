@@ -13,7 +13,7 @@
 </p>
 <br>
 <p>
-  > Work with, React, JavaScript, HTML, CSS, SASS 💾
+  > Work with, React, JavaScript, HTML, CSS, SASS; 💾
 </p>
 <br>
 <p>
