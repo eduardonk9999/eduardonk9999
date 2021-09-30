@@ -13,15 +13,22 @@
 </p>
 <br>
 <p>
-  > Work with, React, JavaScript, HTML, CSS, SASS; 💾
+  > Trabalho com: React, JavaScript, HTML, CSS, SASS; 💾
 </p>
 <br>
 <p>
-  
   > Amante do mundo Nintendo 🕹️
 </p>
 <br>
 <p>
   > Amante do mundo 8Bit e pixel arte 👾
 </p>
+<br>
+<p>
+  > Leitor de Mangá 📙
+</p>
+<br>
+<p>
+  > Aprendendo a jogar Shogi ⛉
+</p> 
 <a href="https://eduardosilvajs.com.br/" target="_blank">Meu Site.</a>
