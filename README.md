@@ -11,7 +11,7 @@
 </p>
 <br>
 <p>
-  > Trabalho com: React, JavaScript, HTML, CSS, SASS; 💾
+  > Trabalho com: React, JavaScript, HTML, CSS, SASS; Firebase; Next.Js💾
 </p>
 <br>
 <p>
