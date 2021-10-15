@@ -33,6 +33,8 @@
 ## Em UX Design
 
 <div style="display: block;">
+
+  <img src="https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff"/>
   <img src="https://aleen42.github.io/badges/src/photoshop.svg"/>
   <img src="https://aleen42.github.io/badges/src/illustrator.svg"/>
   <img src="https://aleen42.github.io/badges/src/after_effects.svg"/>
