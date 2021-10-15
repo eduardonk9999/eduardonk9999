@@ -12,6 +12,7 @@
 <br>
 <p>
   > Trabalho com: React, JavaScript, TypeScript; Firebase; Next.Js
+  <br>
   > Html, CSS, SASS
 </p>
 <br>
