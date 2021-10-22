@@ -14,7 +14,7 @@
 
 <br />
 
-## Tecnologias que eu uso no meu dia de Front-End
+## Tecnologias que eu uso no meu dia de Front-End.
 
 <div style="display: block;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
