@@ -41,6 +41,7 @@
   <img src="https://aleen42.github.io/badges/src/premiere.svg"/>
 </div>
 
+
 <br />
 
 ## Já trabalhei com
