@@ -47,7 +47,7 @@
 
 <br />
 
-## Já trabalhei com
+## Já trabalhei com:
 
 <div style="display: block;">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
