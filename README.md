@@ -61,7 +61,7 @@
 <br />
 
 
-## Nas Horas Livres gosto
+## Nas Horas Livres gosto:
 
 - Ler Mangás 📚
 - Assistir Animes 📺
