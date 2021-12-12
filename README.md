@@ -1,7 +1,7 @@
 
 ## Olá Sou Eduardo Silva 🖖  
 
-### Trabalho como Front-End na <a href="https://www.darksidebooks.com.br/" target="_blank">DarkSide Books</a>
+### Trabalho como Desenvolvedor na <a href="https://www.darksidebooks.com.br/" target="_blank">DarkSide Books</a>
 
 ### Estudo Análise e Desenvolvimento de Sistemas na <a href="http://descomplica.com.br/" target="_blank">Descomplica</a>
 
