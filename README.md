@@ -14,10 +14,11 @@
 
 <br />
 
-## Tecnologias que eu uso no meu dia de Front-End.
+## Tecnologias que eu uso no meu dia de Desenvolvedor.
 
 <div style="display: block;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -25,27 +26,9 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=whit"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  
 </div>
 <br />
 
-## Em UX Design
-
-
-<div style="display: block;">
-
-  <img src="https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff"/>
-  <img src="https://aleen42.github.io/badges/src/photoshop.svg"/>
-  <img src="https://aleen42.github.io/badges/src/illustrator.svg"/>
-  <img src="https://aleen42.github.io/badges/src/after_effects.svg"/>
-  
-  <img src="https://aleen42.github.io/badges/src/premiere.svg"/>
-  
-</div>
-
-
-<br />
 
 ## Já trabalhei com:
 
