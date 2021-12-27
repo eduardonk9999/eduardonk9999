@@ -1,5 +1,5 @@
 
-## Olá Sou Eduardo Silva 🖖  
+## Olá Sou Eduardo Silva 🖖  .
 
 ### Trabalho como Desenvolvedor na <a href="https://www.darksidebooks.com.br/" target="_blank">DarkSide Books</a>
 
