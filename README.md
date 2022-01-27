@@ -11,9 +11,8 @@
 <br />
 
 ### Learning:
-- 🔥 TDD
-- 🔥 Design Patterns 
-- 🔥 Flux architecture
-- 🔥 Microsserviços
-- 
+- 🔥 TDD...
+- 🔥 Flux architecture...
+- 🔥 Micro Front-ends...
+- 🔥 Clean Code...
 
