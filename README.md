@@ -8,8 +8,8 @@
 <br />
 
 ### Learning:
-- 🔥 TDD...
-- 🔥 Clean Code..
-- 🔥 Algorithm and Data Structure...
+- 🔥 TDD.
+- 🔥 Clean Code.
+- 🔥 Algorithm and Data Structure.
 
 
