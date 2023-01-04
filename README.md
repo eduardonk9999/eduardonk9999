@@ -8,8 +8,8 @@
 <br />
 
 ### Learning =>
-🕹 Game Dev
-🪳 Bug bounty
-🐍 Python
+<p>🕹 Game Dev</p>
+<p>🪳 Bug bounty</p>
+<p>🐍 Python</p>
 
 
