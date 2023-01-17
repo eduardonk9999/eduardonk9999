@@ -7,7 +7,7 @@
 <br />
 
 ### Learning 📚
-<p>🕹 Game Dev</p>
-<p>🪳 Bug bounty</p>
+<p>🕹 Game Dev.</p>
+<p>🪳 Bug bounty.</p>
 
 
