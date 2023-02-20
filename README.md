@@ -7,6 +7,6 @@
 <br />
 
 ### Learning 📚
-<p>🪳 Bug bounty.</p>
+<p> Java</p>
 
 
