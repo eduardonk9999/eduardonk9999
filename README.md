@@ -7,6 +7,6 @@
 <br />
 
 ### Learning 📚
-<p> Java</p>
+<p>Java</p>
 
 
