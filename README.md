@@ -17,3 +17,4 @@
 ### What do i study in my free time 📓
 <p>Piano 🎹</p>
 <p>Painting 🎨</p>
+<p>Bug Bounty 🐞</p>
