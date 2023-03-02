@@ -11,7 +11,6 @@
 <p>Java 🔥</p>
 <p>Tests 🔥</p>
 <p>Spring Boot 🔥</p>
-<p>Kafka 🔥</p>
 <p>Banco Da Dados 🔥</p>
 
 ### What do i study in my free time 📓
