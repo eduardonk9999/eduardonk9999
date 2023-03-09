@@ -14,6 +14,4 @@
 <p>Banco Da Dados 🔥</p>
 
 ### What do i study in my free time 📓
-<p>Piano 🎹</p>
-<p>Painting 🎨</p>
 <p>CTF 💀</p>
