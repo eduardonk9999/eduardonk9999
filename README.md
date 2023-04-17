@@ -12,8 +12,3 @@
 <p>Tests 🔥</p>
 <p>Spring Boot 🔥</p>
 <p>Banco Da Dados 🔥</p>
-
-
-### What do i study in my free time 📓
-<p>CTF 💀</p>
-<p>IOT ⚙️</p>
