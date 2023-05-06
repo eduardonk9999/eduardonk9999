@@ -1,5 +1,5 @@
 ### Hey, I'm Edu! 🖖🏻
-<p>Work as Front-End at <a href="https://invillia.com/global-growth-framework/" target="blank">Invillia</a></p>
+<p>Work as Full-Stack at <a href="https://invillia.com/global-growth-framework/" target="blank">Invillia</a></p>
 <p>Student Computer Engineering ⚙️ 1/4 - Impacta..</p>
 
 
