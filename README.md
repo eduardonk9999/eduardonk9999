@@ -1,6 +1,6 @@
 ### Hey, I'm Edu! 🖖🏻
 <p>Work as Full-Stack at <a href="https://invillia.com/global-growth-framework/" target="blank">Invillia</a></p>
-<p>Student Computer Engineering ⚙️ 1/4 - Impacta..</p>
+<p>Student Software Engineering 1/3 </p>
 
 
 ### Working with: 
