@@ -1,5 +1,5 @@
 ### Hello, my name is Eduardo 🖖🏻
-
+## Full-Stack Developer
 
 <p>I have a great passion for technology. Currently, I work as a full-stack developer at <a href="https://invillia.com/global-growth-framework/" target="blank">Invillia</a>, directly involved with the PagSeguro client. I am also pursuing a degree in Software Engineering, currently in my first year</p>
 
