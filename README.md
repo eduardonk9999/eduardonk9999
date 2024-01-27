@@ -5,7 +5,7 @@ I am a Mid-Level Software Engineer with six years of experience in the field. Cu
 </p>
 
 <ul>
-  <li>ADS 1/5 ImpactaR</li>
+  <li>ADS 1/5 Impacta</li>
   <li>Mid-Level Software Engineer - Invillia - PagBank</li>
 </ul>
 
