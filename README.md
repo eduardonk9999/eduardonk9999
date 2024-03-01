@@ -5,7 +5,7 @@ I am a Mid-Level Software Engineer with six years of experience in the field. Cu
 </p>
 
 <ul>
-  <li>Engenharia De Computação 1/5 Impacta </li>
+  <li>Cursando: Engenharia De Computação</li>
   <li>Mid-Level Software Engineer - Invillia - PagBank</li>
 </ul>
 
