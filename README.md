@@ -14,9 +14,6 @@ I am a Mid-Level Software Engineer with six years of experience in the field. Cu
      <a href="https://www.linkedin.com/in/eduardo-silva-537963160/" target="_blank">
        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
      </a> 
-      <a href="https://www.instagram.com/eduardosilvadev/" target="_blank">
-           <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-     </a> 
 </div>
 
 
