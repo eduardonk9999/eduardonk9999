@@ -1,4 +1,4 @@
-### Hello, my name is Eduardo 🖖🏻.
+### Hello, my name is Eduardo 🖖🏻...
 <p>
 I am a Mid-Level Software Engineer with six years of experience in the field. Currently, I am pursuing a degree in Computer Science.
   
