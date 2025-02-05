@@ -1,3 +1,3 @@
-### Hello, my name is Eduardo 🖖🏻
+### Hello, my name is Eduardo. 🖖🏻
 
 
